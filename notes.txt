@@ -1,6 +1,8 @@
+
+
 I am practising Git from the command line.
 this line from github
-
+This change was made in the git-practice branch.
 
 
 Hello this is my first git
