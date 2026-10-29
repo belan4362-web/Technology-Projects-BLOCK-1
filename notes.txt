@@ -1,5 +1,7 @@
 I am practising Git from the command line.
+this line from github
 
 
-Hello this is my frist git
+
+Hello this is my first git
 
