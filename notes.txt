@@ -1,2 +1,5 @@
+I am practising Git from the command line.
+
+
 Hello this is my frist git
 
